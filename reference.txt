@@ -1,0 +1,9 @@
+For basic tutorials and function definations :
+http://fuse.sourceforge.net/
+
++ forums on sourceforge for errors
+
+----------------------------------------------------
+
+man pages for all system calls and small tutorials for such calls on cplusplus.com and tutorial.com
+
